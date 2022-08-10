@@ -1,6 +1,6 @@
 # About me
 
-* Student of UNN
+* Graduated from UNN
 * C/C++/Java/JavaScript/Python
 
 # My stats
